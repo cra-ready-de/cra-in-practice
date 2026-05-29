@@ -37,7 +37,7 @@ Background: Embedded Linux, Yocto, OT/ICS product security.
 
 - 🌐 Platform: [cra-ready.de](https://www.cra-ready.de)
 - 💼 LinkedIn: [linkedin.com/in/rouhollah-hosseini-cra](https://www.linkedin.com/in/rouhollah-hosseini-cra/)
-- 📰 Newsletter: [CRA in Practice](https://www.linkedin.com/newsletters/cra-in-practice/)
+- 📰 Newsletter: [CRA in Practice](https://www.linkedin.com/newsletters/cra-in-practice-7436046525455278080/)
 
 ---
 
