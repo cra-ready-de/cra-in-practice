@@ -1,7 +1,7 @@
 # CRA in Practice
 
 **Articles from the LinkedIn Newsletter "CRA in Practice"**
-by [Rouhollah Hosseini](https://www.linkedin.com/in/rouhollah-hosseini-cra/)
+by [Rouhollah Hosseini](https://www.linkedin.com/in/rouhollah-hosseini/)
 
 Practical insights on the EU Cyber Resilience Act (Regulation EU 2024/2847)
 for manufacturers of products with digital elements.
@@ -36,7 +36,7 @@ compliance with the EU Cyber Resilience Act.
 Background: Embedded Linux, Yocto, OT/ICS product security.
 
 - 🌐 Platform: [cra-ready.de](https://www.cra-ready.de)
-- 💼 LinkedIn: [linkedin.com/in/rouhollah-hosseini-cra](https://www.linkedin.com/in/rouhollah-hosseini-cra/)
+- 💼 LinkedIn: [linkedin.com/in/rouhollah-hosseini-cra](https://www.linkedin.com/in/rouhollah-hosseini/)
 - 📰 Newsletter: [CRA in Practice](https://www.linkedin.com/newsletters/cra-in-practice-7436046525455278080/)
 
 ---
